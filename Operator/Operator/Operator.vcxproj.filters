@@ -21,10 +21,16 @@
     <ClCompile Include="OperatorEx2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Calculator.c">
+    <ClCompile Include="swap.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="swap.c">
+    <ClCompile Include="ContstantEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BitOperator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ChoiceOperator.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

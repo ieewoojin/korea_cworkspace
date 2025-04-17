@@ -32,5 +32,7 @@ int main() {
 	value %= 3;
 	printf("%d\n", value);
 
+	
+
 	return 0;
 }
