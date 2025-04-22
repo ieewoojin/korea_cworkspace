@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\korea_cworkspace\\Choices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6ED56-E448-4C9F-9796-FD6B963DCEA6}|Choices\\Choices.vcxproj|C:\\korea_cworkspace\\Choices\\Choices\\SwitchEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF6ED56-E448-4C9F-9796-FD6B963DCEA6}|Choices\\Choices.vcxproj|solutionrelative:Choices\\SwitchEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6ED56-E448-4C9F-9796-FD6B963DCEA6}|Choices\\Choices.vcxproj|C:\\korea_cworkspace\\Choices\\Choices\\SwitchEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF6ED56-E448-4C9F-9796-FD6B963DCEA6}|Choices\\Choices.vcxproj|solutionrelative:Choices\\SwitchEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6ED56-E448-4C9F-9796-FD6B963DCEA6}|Choices\\Choices.vcxproj|C:\\korea_cworkspace\\Choices\\Choices\\CoffreeMachine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF6ED56-E448-4C9F-9796-FD6B963DCEA6}|Choices\\Choices.vcxproj|solutionrelative:Choices\\CoffreeMachine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6ED56-E448-4C9F-9796-FD6B963DCEA6}|Choices\\Choices.vcxproj|C:\\korea_cworkspace\\Choices\\Choices\\IfEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF6ED56-E448-4C9F-9796-FD6B963DCEA6}|Choices\\Choices.vcxproj|solutionrelative:Choices\\IfEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6ED56-E448-4C9F-9796-FD6B963DCEA6}|Choices\\Choices.vcxproj|C:\\korea_cworkspace\\Choices\\Choices\\WhileEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF6ED56-E448-4C9F-9796-FD6B963DCEA6}|Choices\\Choices.vcxproj|solutionrelative:Choices\\WhileEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6ED56-E448-4C9F-9796-FD6B963DCEA6}|Choices\\Choices.vcxproj|C:\\korea_cworkspace\\Choices\\Choices\\WhileBreak.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF6ED56-E448-4C9F-9796-FD6B963DCEA6}|Choices\\Choices.vcxproj|solutionrelative:Choices\\WhileBreak.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6ED56-E448-4C9F-9796-FD6B963DCEA6}|Choices\\Choices.vcxproj|C:\\korea_cworkspace\\Choices\\Choices\\LeafYear.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF6ED56-E448-4C9F-9796-FD6B963DCEA6}|Choices\\Choices.vcxproj|solutionrelative:Choices\\LeafYear.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6ED56-E448-4C9F-9796-FD6B963DCEA6}|Choices\\Choices.vcxproj|C:\\korea_cworkspace\\Choices\\Choices\\IfElseIf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF6ED56-E448-4C9F-9796-FD6B963DCEA6}|Choices\\Choices.vcxproj|solutionrelative:Choices\\IfElseIf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6ED56-E448-4C9F-9796-FD6B963DCEA6}|Choices\\Choices.vcxproj|C:\\korea_cworkspace\\Choices\\Choices\\IfEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF6ED56-E448-4C9F-9796-FD6B963DCEA6}|Choices\\Choices.vcxproj|solutionrelative:Choices\\IfEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwitchEx2.c",
+              "DocumentMoniker": "C:\\korea_cworkspace\\Choices\\Choices\\SwitchEx2.c",
+              "RelativeDocumentMoniker": "Choices\\SwitchEx2.c",
+              "ToolTip": "C:\\korea_cworkspace\\Choices\\Choices\\SwitchEx2.c",
+              "RelativeToolTip": "Choices\\SwitchEx2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-22T12:41:51.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwitchEx1.c",
+              "DocumentMoniker": "C:\\korea_cworkspace\\Choices\\Choices\\SwitchEx1.c",
+              "RelativeDocumentMoniker": "Choices\\SwitchEx1.c",
+              "ToolTip": "C:\\korea_cworkspace\\Choices\\Choices\\SwitchEx1.c",
+              "RelativeToolTip": "Choices\\SwitchEx1.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-22T12:29:43.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoffreeMachine.c",
+              "DocumentMoniker": "C:\\korea_cworkspace\\Choices\\Choices\\CoffreeMachine.c",
+              "RelativeDocumentMoniker": "Choices\\CoffreeMachine.c",
+              "ToolTip": "C:\\korea_cworkspace\\Choices\\Choices\\CoffreeMachine.c",
+              "RelativeToolTip": "Choices\\CoffreeMachine.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-22T12:01:31.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WhileBreak.c",
+              "DocumentMoniker": "C:\\korea_cworkspace\\Choices\\Choices\\WhileBreak.c",
+              "RelativeDocumentMoniker": "Choices\\WhileBreak.c",
+              "ToolTip": "C:\\korea_cworkspace\\Choices\\Choices\\WhileBreak.c",
+              "RelativeToolTip": "Choices\\WhileBreak.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-22T11:41:31.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WhileEx1.c",
+              "DocumentMoniker": "C:\\korea_cworkspace\\Choices\\Choices\\WhileEx1.c",
+              "RelativeDocumentMoniker": "Choices\\WhileEx1.c",
+              "ToolTip": "C:\\korea_cworkspace\\Choices\\Choices\\WhileEx1.c",
+              "RelativeToolTip": "Choices\\WhileEx1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-22T11:18:47.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IfElseIf.c",
+              "DocumentMoniker": "C:\\korea_cworkspace\\Choices\\Choices\\IfElseIf.c",
+              "RelativeDocumentMoniker": "Choices\\IfElseIf.c",
+              "ToolTip": "C:\\korea_cworkspace\\Choices\\Choices\\IfElseIf.c",
+              "RelativeToolTip": "Choices\\IfElseIf.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-22T11:03:14.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeafYear.c",
+              "DocumentMoniker": "C:\\korea_cworkspace\\Choices\\Choices\\LeafYear.c",
+              "RelativeDocumentMoniker": "Choices\\LeafYear.c",
+              "ToolTip": "C:\\korea_cworkspace\\Choices\\Choices\\LeafYear.c",
+              "RelativeToolTip": "Choices\\LeafYear.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-22T10:36:54.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IfEx2.c",
+              "DocumentMoniker": "C:\\korea_cworkspace\\Choices\\Choices\\IfEx2.c",
+              "RelativeDocumentMoniker": "Choices\\IfEx2.c",
+              "ToolTip": "C:\\korea_cworkspace\\Choices\\Choices\\IfEx2.c",
+              "RelativeToolTip": "Choices\\IfEx2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-22T10:23:47.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IfEx.c",
+              "DocumentMoniker": "C:\\korea_cworkspace\\Choices\\Choices\\IfEx.c",
+              "RelativeDocumentMoniker": "Choices\\IfEx.c",
+              "ToolTip": "C:\\korea_cworkspace\\Choices\\Choices\\IfEx.c",
+              "RelativeToolTip": "Choices\\IfEx.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-22T10:11:38.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
