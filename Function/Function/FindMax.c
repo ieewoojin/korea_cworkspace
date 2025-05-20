@@ -14,7 +14,7 @@ int findMax(int arr[], int len)
 
 int main()
 {
-	int a[] = { 21,35,45,42,44 };
+	int a[] = { 21,35,97,42,44 };
 
 	//함수 호출
 	int max= findMax(a,6);
